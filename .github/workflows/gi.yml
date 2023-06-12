@@ -13,5 +13,5 @@ jobs:
         with:
           args: suite execute ${{ secrets.GI_SUITE }} \
             --apiKey ${{ secrets.GI_API_KEY }} \
-            --startUrl https://crm.thomaseyl.es \
+            --startUrl https://ADD_URL.COM \
             --errorOnFail
