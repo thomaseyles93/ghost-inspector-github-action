@@ -2,6 +2,8 @@
 
 A Ghost Inspector GitHub action for CI/CD workflows to automate test suites on pull requests. 
 
+## Use Case
+Trigger a test suite/individual test in Ghost Inspector on a staging site before merging code to a production enviroment. 
 
 ## Installation
 - Copy .github into your local repo 
@@ -24,7 +26,7 @@ A Ghost Inspector GitHub action for CI/CD workflows to automate test suites on p
 ```
   pull_request:
     branches:
-      - "main"
+      - "staging"
 ```
 
 ## Run test suites or indicidual tests
