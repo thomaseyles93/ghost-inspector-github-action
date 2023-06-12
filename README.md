@@ -1,7 +1,7 @@
 # ghost-inspector-github-action
 A Ghost Inspector GitHub action for CI/CD workflows to automate test suites on pull requests. 
 
-![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fghostinspector.com%2Fabout%2F&psig=AOvVaw2ZHC1jq9MY5lygc0Ouol2C&ust=1686644796127000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjts9Gnvf8CFQAAAAAdAAAAABAE))
+![alt text](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/25528/logo.png)
 
 ##Installation
 - Copy .github into your local repo 
